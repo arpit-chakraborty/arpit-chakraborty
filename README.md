@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @arpit-chakraborty
 - 👀 I’m interested in ... Anything new
-- 🌱 I’m currently learning python
-- 💞️ I’m looking to collaborate on ...
+- 🌱 I’m currently webdev
+- 💞️ I’m looking to collaborate on creating creative websites
 - 📫 How to reach me ... My Instagram arpit__chakraborty
 
 <!---
